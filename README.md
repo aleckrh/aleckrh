@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Aleckrh's GitHub status](https://github-readme-stats.vercel.app/api?username=aleckrh&show_icons=true&include_all_commits=false&count_private=false&hide=prs)
+![Aleckrh's GitHub status](https://github-readme-stats.vercel.app/api?username=aleckrh&show_icons=true)
 
 ![Aleckrh](https://komarev.com/ghpvc/?username=aleckrh)
 
