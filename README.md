@@ -5,7 +5,7 @@
 
 ### 📊 GitHub Stats:
 
-![Aleckrh's GitHub status](https://github-readme-stats.vercel.app/api?username=aleckrh&show_icons=true)
+![Aleckrh's GitHub status](https://github-readme-stats.vercel.app/api?username=aleckrh&show_icons=true&rank_icon=github)
 
 ---
 
